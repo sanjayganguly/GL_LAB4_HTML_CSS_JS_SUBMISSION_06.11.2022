@@ -1,0 +1,116 @@
+{
+  "items": [
+    {
+      "payeeName": "Rahul",
+      "expenseDescription": "Bike Repair",
+      "price": 1000,
+      "date": "2022-04-07",
+      "id": 1
+    },
+    {
+      "payeeName": "Rahul",
+      "expenseDescription": "Movie",
+      "price": 1044,
+      "date": "2022-04-05",
+      "id": 2
+    },
+    {
+      "payeeName": "Ramesh",
+      "expenseDescription": "Vegetables",
+      "price": 366,
+      "date": "2022-04-01",
+      "id": 3
+    },
+    {
+      "payeeName": "Rahul",
+      "expenseDescription": "Water",
+      "price": 40,
+      "date": "2022-04-02",
+      "id": 4
+    },
+    {
+      "payeeName": "Ramesh",
+      "expenseDescription": "Grocery",
+      "price": 192,
+      "date": "2022-04-03",
+      "id": 5
+    },
+    {
+      "payeeName": "Ramesh",
+      "expenseDescription": "Rice Bag",
+      "price": 2000,
+      "date": "2022-04-05",
+      "id": 6
+    },
+    {
+      "payeeName": "Ramesh",
+      "expenseDescription": "Internet Bills",
+      "price": 1200,
+      "date": "2022-04-06",
+      "id": 7
+    },
+    {
+      "payeeName": "Rahul",
+      "expenseDescription": "Electricity Bill",
+      "price": 724,
+      "date": "2022-04-04",
+      "id": 8
+    },
+    {
+      "payeeName": "Ramesh",
+      "expenseDescription": "Water",
+      "price": 40,
+      "date": "2022-04-05",
+      "id": 9
+    },
+    {
+      "payeeName": "Rahul",
+      "expenseDescription": "Water",
+      "price": 40,
+      "date": "2022-04-06",
+      "id": 10
+    },
+    {
+      "payeeName": "Rahul",
+      "expenseDescription": "Plumbing work",
+      "price": 250,
+      "date": "2022-04-05",
+      "id": 11
+    },
+    {
+      "payeeName": "Rahul",
+      "expenseDescription": "Tubelight",
+      "price": 149,
+      "date": "2022-04-01",
+      "id": 12
+    },
+    {
+      "payeeName": "Ramesh",
+      "expenseDescription": "LPG",
+      "price": 1000,
+      "date": "2022-04-05",
+      "id": 13
+    },
+    {
+      "expenseDescription": "Trip to Pune",
+      "payeeName": "Ramesh",
+      "price": 2000,
+      "date": "2022-11-04",
+      "id": 14
+    },
+    {
+      "expenseDescription": "Trip To Goa",
+      "payeeName": "Rahul",
+      "price": 5000,
+      "date": "2022-11-04",
+      "id": 15
+    },
+    {
+      "expenseDescription": "Trip To Goa",
+      "payeeName": "Ramesh",
+      "price": 4000,
+      "date": "2022-11-04",
+      "id": 16
+    }
+  ]
+}
